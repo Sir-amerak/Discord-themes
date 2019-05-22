@@ -12,6 +12,14 @@
   background-position: center;
 }
 
+#app-mount,
+.divider-3gKybi,
+.typing-2GQL18,
+.typing-2GQL18,
+.guild-1EfMGQ .guildInner-3DSoA4 {
+	background: transparent !important;
+}
+
 /* removing more backgrounds - theme based */
 .da-app .markup-2BOw-j pre, .userSettingsVoice-iwdUCU .media-engine-video, .search-bar .search-bar-inner, .da-app .tag-HanR-9:before, #bda-qem, .da-app .wrapper-29NfPK,
 .create-guild-container.deprecated .create-or-join .form-inner {
