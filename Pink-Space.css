@@ -1,6 +1,7 @@
 @import url('https://anti-betterdocs.github.io/BlockBetterDocs/code.css');
 
 /* Background */
+.da-appMount {
     body::before {
   position: fixed;
   content: '';
@@ -10,8 +11,8 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+	}
 }
-
 #app-mount,
 .divider-3gKybi,
 .typing-2GQL18,
